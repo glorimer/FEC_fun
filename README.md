@@ -1,1 +1,3 @@
-# FEC_fun
+# FEC Fun
+
+This repository houses notebooks from some of the projects I've been working on while digging into FEC data. Feel free to download your own data at fec.gov and play around with these notebooks, some of them have better instructions than others :)
